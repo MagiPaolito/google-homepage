@@ -1,0 +1,15 @@
+body{
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    color: #222;
+}
+
+.chi-siamo{
+    padding: 5px;
+    margin: 0 5px 0 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.chi-siamo:hover{
+    text-decoration: underline;
+}
